@@ -24,7 +24,7 @@ npm start
 
 ➤Para volverlo a activar usa 
 
-cd self-bot
+cd RinBot
 
 npm start
 
