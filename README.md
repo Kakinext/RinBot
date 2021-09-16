@@ -8,9 +8,9 @@ pkg upgrade
 
 pkg install git
 
-git clone https://github.com/Mr-Pato/self-bot
+git clone https://github.com/Kakinext/RinBot
 
-cd self-bot
+cd RinBot
 
 bash install.sh
 
