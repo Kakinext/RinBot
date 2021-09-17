@@ -16,6 +16,10 @@ bash install.sh
 
 npm start
 
+Si te aparece un error pone
+
+npm update
+
 ➤Debes de tener 2 dispositivos para poder escanear 
 
 ➤Es self bot así que lo puedes usar en tu mismo número
